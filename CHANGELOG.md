@@ -1,3 +1,20 @@
+## [1.0.1](https://github.com/holvonix-open/release-config-js/compare/v1.0.0...v1.0.1) (2019-08-03)
+
+
+### 🎲 Misc.
+
+* Revert "fix: attempt to use a more secure mem via os-locale 3 - https://github.com/sindresorhus/mem/issues/14" ([7c57270](https://github.com/holvonix-open/release-config-js/commit/7c57270))
+
+
+### 📖 Documentation
+
+* fix npm badge ([8386b4b](https://github.com/holvonix-open/release-config-js/commit/8386b4b))
+
+
+### 🔧 Build / Cont. Integration
+
+* ensure we can publish to npm ([ae6a5e7](https://github.com/holvonix-open/release-config-js/commit/ae6a5e7))
+
 # 1.0.0 (2019-08-03)
 
 

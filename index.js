@@ -41,7 +41,7 @@ function writerOpts() {
 
       switch (commit.type) {
         case `feat`:
-          commit.type = `🚀 Features`;
+          commit.type = `🌟🚀 Features`;
           break;
         case `fix`:
           commit.type = `🐛 Bug Fixes`;
@@ -50,7 +50,7 @@ function writerOpts() {
           commit.type = `🏃 Performance Improvements`;
           break;
         case `revert`:
-          commit.type = `🔙 Reverts`;
+          commit.type = `🦖 Reverts`;
           break;
         case `docs`:
           commit.type = `📖 Documentation`;
@@ -62,14 +62,14 @@ function writerOpts() {
           commit.type = `📦 Code Refactor`;
           break;
         case `test`:
-          commit.type = `🔬 ${ret.type} Tests`;
+          commit.type = `🔬 Tests`;
           break;
         case `build`:
         case `ci`:
-          commit.type = `🔧 Build / Cont. Integration`;
+          commit.type = `🔧 Build / Continuous Integration`;
           break;
         default:
-          commit.type = `🎲 Misc.`;
+          commit.type = `🧦 Miscellaneous`;
           break;
       }
 

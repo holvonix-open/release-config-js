@@ -4,16 +4,14 @@
 
 ## Quick Start
 
-After `yarn add --dev @holvonix-openrelease-config-js`,
+After `yarn add --dev @holvonix-open/release-config-js`,
 add the following to `package.json`:
 
 ```json
 {
-  //...
   "release": {
     "extends": "@holvonix-open/release-config-js"
   }
-  //...
 }
 ```
 

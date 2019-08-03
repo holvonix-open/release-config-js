@@ -1,3 +1,11 @@
+## [1.0.2](https://github.com/holvonix-open/release-config-js/compare/v1.0.1...v1.0.2) (2019-08-03)
+
+
+### 🐛 Bug Fixes
+
+* correct commit group sorting ([8fc5d42](https://github.com/holvonix-open/release-config-js/commit/8fc5d42))
+* handle standard git reverts ([33cb6b3](https://github.com/holvonix-open/release-config-js/commit/33cb6b3))
+
 ## [1.0.1](https://github.com/holvonix-open/release-config-js/compare/v1.0.0...v1.0.1) (2019-08-03)
 
 

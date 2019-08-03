@@ -43,5 +43,8 @@
   },
   "devDependencies": {
     "prettier": "^1.18.2"
+  },
+  "resolutions": {
+    "os-locale": "3.0.0"
   }
 }

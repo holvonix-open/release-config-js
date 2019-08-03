@@ -28,12 +28,15 @@
   "license": "ISC",
   "private": false,
   "scripts": {
-    "test": "prettier --check '**/*.yml' '**/*.yaml' '**/*.md' '**/*.js' '**/*.json'",
-    "fix": "prettier --write '**/*.yml' '**/*.yaml' '**/*.md' '**/*.js' '**/*.json'",
+    "test": "prettier --check '**/*.yml' '**/*.yaml' 'README.md' '**/*.js' '**/*.json'",
+    "fix": "prettier --write '**/*.yml' '**/*.yaml' 'README.md' '**/*.js' '**/*.json'",
     "semantic-release": "semantic-release"
   },
   "release": {
     "extends": "./index.js"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "dependencies": {
     "@semantic-release/changelog": "^3.0.4",

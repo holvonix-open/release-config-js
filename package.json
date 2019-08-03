@@ -1,0 +1,47 @@
+{
+  "name": "@holvonix-open/release-config-js",
+  "version": "0.1.0",
+  "description": "Holvonix LLC's semantic release config for Node projects",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/holvonix-open/release-config-js.git"
+  },
+  "keywords": [
+    "holvonix",
+    "release",
+    "semantic-release",
+    "semver",
+    "conventional-commit"
+  ],
+  "engines": {
+    "node": "^10.0.0 || ^12.0.0",
+    "yarn": "^1.0.0"
+  },
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "LICENSE",
+    "NOTICE",
+    "README.md"
+  ],
+  "author": "Holvonix LLC",
+  "license": "ISC",
+  "private": false,
+  "scripts": {
+    "test": "prettier --check '**/*.yml' '**/*.yaml' '**/*.md' '**/*.js' '**/*.json'",
+    "fix": "prettier --write '**/*.yml' '**/*.yaml' '**/*.md' '**/*.js' '**/*.json'",
+    "semantic-release": "semantic-release"
+  },
+  "release": {
+    "extends": "./index.js"
+  },
+  "dependencies": {
+    "@semantic-release/changelog": "^3.0.4",
+    "@semantic-release/git": "^7.0.16",
+    "conventional-changelog-angular": "^5.0.3",
+    "semantic-release": "^15.13.19"
+  },
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  }
+}

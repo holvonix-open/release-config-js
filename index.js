@@ -131,6 +131,9 @@ module.exports = {
       '@semantic-release/commit-analyzer',
       {
         preset: 'angular',
+        parserOpts: {
+          revertPattern: /^[rR]evert:?\s"?([\s\S]*?)"?\s*This reverts commit (\w*)\./,
+        },
         releaseRules: [
           {
             type: 'perf',

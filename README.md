@@ -1,12 +1,19 @@
 # release-config-js -
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](./LICENSE) [![npm](https://img.shields.io/npm/v/@holvonix-open/release-config-js.svg)](https://www.npmjs.com/package/@holvonix-open/release-config-js) [![Build Status](https://travis-ci.com/holvonix-open/release-config-js.svg?branch=master)](https://travis-ci.com/holvonix-open/release-config-js) [![GitHub last commit](https://img.shields.io/github/last-commit/holvonix-open/release-config-js.svg)](https://github.com/holvonix-open/release-config-js/commits) [![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=holvonix-open/release-config-js)](https://dependabot.com) [![DeepScan grade](https://deepscan.io/api/teams/4465/projects/6664/branches/57090/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=4465&pid=6664&bid=57090) [![Code Style: Google](https://img.shields.io/badge/code%20style-google-blueviolet.svg)](https://github.com/google/gts) 
-[![npm bundle size](https://img.shields.io/bundlephobia/min/@holvonix-open/release-config-js.svg)](https://bundlephobia.com/result?p=@holvonix-open/release-config-js) [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](./LICENSE)
+[![npm](https://img.shields.io/npm/v/@holvonix-open/release-config-js.svg)](https://www.npmjs.com/package/@holvonix-open/release-config-js)
+[![Build Status](https://travis-ci.com/holvonix-open/release-config-js.svg?branch=master)](https://travis-ci.com/holvonix-open/release-config-js)
+[![GitHub last commit](https://img.shields.io/github/last-commit/holvonix-open/release-config-js.svg)](https://github.com/holvonix-open/release-config-js/commits)
+[![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=holvonix-open/release-config-js)](https://dependabot.com)
+[![DeepScan grade](https://deepscan.io/api/teams/4465/projects/6664/branches/57090/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=4465&pid=6664&bid=57090)
+[![Code Style: Google](https://img.shields.io/badge/code%20style-google-blueviolet.svg)](https://github.com/google/gts)
+[![npm bundle size](https://img.shields.io/bundlephobia/min/@holvonix-open/release-config-js.svg)](https://bundlephobia.com/result?p=@holvonix-open/release-config-js)
+[![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
 
 ## Quick Start
 
-After `yarn add --dev @holvonix-open/release-config-js`,
-add the following to `package.json`:
+After `yarn add --dev @holvonix-open/release-config-js`, add the following to
+`package.json`:
 
 ```json
 {

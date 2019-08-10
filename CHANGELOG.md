@@ -1,3 +1,15 @@
+## [1.0.5](https://github.com/holvonix-open/release-config-js/compare/v1.0.4...v1.0.5) (2019-08-10)
+
+
+### 💄 Polish
+
+* prettify ([e9ead3e](https://github.com/holvonix-open/release-config-js/commit/e9ead3e))
+
+
+### 📖 Documentation
+
+* add min size badge [skip-release] ([e36eb2a](https://github.com/holvonix-open/release-config-js/commit/e36eb2a))
+
 ## [1.0.4](https://github.com/holvonix-open/release-config-js/compare/v1.0.3...v1.0.4) (2019-08-10)
 
 

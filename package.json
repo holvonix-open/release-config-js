@@ -1,6 +1,6 @@
 {
   "name": "@holvonix-open/release-config-js",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Holvonix LLC's semantic release config for Node projects",
   "repository": {
     "type": "git",

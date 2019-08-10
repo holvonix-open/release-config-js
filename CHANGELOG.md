@@ -1,3 +1,11 @@
+## [1.0.4](https://github.com/holvonix-open/release-config-js/compare/v1.0.3...v1.0.4) (2019-08-10)
+
+
+### 🐛 Bug Fixes
+
+* skip-version should skip version, not skip-release ([d85e3cc](https://github.com/holvonix-open/release-config-js/commit/d85e3cc))
+* use skip- version to skip versioning, not skip- release ([a2d9802](https://github.com/holvonix-open/release-config-js/commit/a2d9802))
+
 ## [1.0.3](https://github.com/holvonix-open/release-config-js/compare/v1.0.2...v1.0.3) (2019-08-03)
 
 

@@ -148,7 +148,7 @@ module.exports = {
             release: 'patch',
           },
           {
-            subject: '/skip-release/',
+            subject: '/skip-version/',
             release: false,
           },
         ],

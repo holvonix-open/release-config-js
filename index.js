@@ -148,6 +148,8 @@ module.exports = {
             release: 'patch',
           },
           {
+            // This means the commit doesn't bump the version, but semrel
+            // may still run.  Use skip-release to skip semrel CI stage.
             subject: '/skip-version/',
             release: false,
           },

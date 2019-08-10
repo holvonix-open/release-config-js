@@ -141,11 +141,11 @@ module.exports = {
           },
           {
             type: 'refactor',
-            release: 'patch',
+            release: false,
           },
           {
             type: 'docs',
-            release: 'patch',
+            release: false,
           },
           {
             // This means the commit doesn't bump the version, but semrel

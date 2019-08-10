@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/holvonix-open/release-config-js/compare/v1.0.5...v1.0.6) (2019-08-10)
+
+
+### 🐛 Bug Fixes
+
+* don't release patches for docs and refactor ([a5aa040](https://github.com/holvonix-open/release-config-js/commit/a5aa040))
+
 ## [1.0.5](https://github.com/holvonix-open/release-config-js/compare/v1.0.4...v1.0.5) (2019-08-10)
 
 

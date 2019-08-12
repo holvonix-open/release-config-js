@@ -85,6 +85,9 @@ function writerOpts() {
         if (commit.subject.indexOf('skip-changelog') >= 0) {
           return;
         }
+        if (commit.subject.indexOf('Merge pull request') >= 0) {
+          return;
+        }
         let url = context.repository
           ? `${context.host}/${context.owner}/${context.repository}`
           : context.repoUrl;

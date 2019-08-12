@@ -1,3 +1,10 @@
+## [1.0.7](https://github.com/holvonix-open/release-config-js/compare/v1.0.6...v1.0.7) (2019-08-12)
+
+
+### 🐛 Bug Fixes
+
+* skip merge PR commits in changelog ([8a37e43](https://github.com/holvonix-open/release-config-js/commit/8a37e43))
+
 ## [1.0.6](https://github.com/holvonix-open/release-config-js/compare/v1.0.5...v1.0.6) (2019-08-10)
 
 

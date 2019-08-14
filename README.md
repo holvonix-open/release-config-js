@@ -10,6 +10,10 @@
 [![npm bundle size](https://img.shields.io/bundlephobia/min/@holvonix-open/release-config-js.svg)](https://bundlephobia.com/result?p=@holvonix-open/release-config-js)
 [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
 
+**Note:** while we're pleased to make this preset public, it will remain
+tailored to our particular needs. If your team needs its own config, please fork
+under the terms of the license.
+
 ## Quick Start
 
 After `yarn add --dev @holvonix-open/release-config-js`, add the following to

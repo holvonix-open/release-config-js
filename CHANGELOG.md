@@ -1,3 +1,16 @@
+## [1.0.8](https://github.com/holvonix-open/release-config-js/compare/v1.0.7...v1.0.8) (2019-08-14)
+
+
+### 🐛 Bug Fixes
+
+* **deps:** bump semantic-release from 15.13.19 to 15.13.21 ([e0a0de3](https://github.com/holvonix-open/release-config-js/commit/e0a0de3))
+
+
+### 🧦 Miscellaneous
+
+* stale settings ([ef07ac3](https://github.com/holvonix-open/release-config-js/commit/ef07ac3))
+* Merge pull request #1 from holvonix-open/dependabot/npm_and_yarn/semantic-release-15.13.21 ([a11d4a6](https://github.com/holvonix-open/release-config-js/commit/a11d4a6)), closes [#1](https://github.com/holvonix-open/release-config-js/issues/1)
+
 ## [1.0.7](https://github.com/holvonix-open/release-config-js/compare/v1.0.6...v1.0.7) (2019-08-12)
 
 

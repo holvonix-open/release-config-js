@@ -28,9 +28,14 @@
   "license": "ISC",
   "private": false,
   "scripts": {
-    "test": "prettier --check '**/*.yml' '**/*.yaml' 'README.md' '**/*.js' '**/*.json'",
-    "fix": "prettier --write '**/*.yml' '**/*.yaml' 'README.md' '**/*.js' '**/*.json'",
+    "pretty.check": "prettier --check $npm_package_prettierGlob_include",
+    "pretty.fix": "prettier --write $npm_package_prettierGlob_include",
+    "test": "yarn run pretty.check",
+    "fix": "yarn run pretty.fix",
     "semantic-release": "semantic-release"
+  },
+  "prettierGlob": {
+    "include": "**/*.yml **/*.yaml **/*.md **/*.json *.js !CHANGELOG.md"
   },
   "release": {
     "extends": "./index.js"

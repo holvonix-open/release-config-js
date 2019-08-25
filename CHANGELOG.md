@@ -1,3 +1,16 @@
+## [1.0.9](https://github.com/holvonix-open/release-config-js/compare/v1.0.8...v1.0.9) (2019-08-25)
+
+
+### 🐛 Bug Fixes
+
+* **deps:** bump semantic-release from 15.13.21 to 15.13.24 ([#3](https://github.com/holvonix-open/release-config-js/issues/3)) ([5b48d45](https://github.com/holvonix-open/release-config-js/commit/5b48d45))
+
+
+### 📖 Documentation
+
+* clarification re scope of package ([649ea52](https://github.com/holvonix-open/release-config-js/commit/649ea52))
+* clarification re scope of package (more) ([6e8935e](https://github.com/holvonix-open/release-config-js/commit/6e8935e))
+
 ## [1.0.8](https://github.com/holvonix-open/release-config-js/compare/v1.0.7...v1.0.8) (2019-08-14)
 
 

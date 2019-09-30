@@ -32,7 +32,9 @@
     "pretty.fix": "prettier --write $npm_package_prettierGlob_include",
     "test": "yarn run pretty.check",
     "fix": "yarn run pretty.fix",
-    "semantic-release": "semantic-release"
+    "semantic-release": "semantic-release",
+    "up": "yarn upgrade-interactive --latest",
+    "yarn": "rm -rf yarn.lock node_modules/ && yarn"
   },
   "prettierGlob": {
     "include": "**/*.yml **/*.yaml **/*.md **/*.json *.js !CHANGELOG.md"

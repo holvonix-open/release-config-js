@@ -1,3 +1,12 @@
+## [1.0.12](https://github.com/holvonix-open/release-config-js/compare/v1.0.11...v1.0.12) (2019-11-12)
+
+
+### 🐛 Bug Fixes
+
+* **deps:** bump @semantic-release/git from 7.0.16 to 7.0.18 ([#13](https://github.com/holvonix-open/release-config-js/issues/13)) ([](https://github.com/holvonix-open/release-config-js/commit/50f3172))
+* **deps:** bump conventional-changelog-angular from 5.0.3 to 5.0.6 ([#16](https://github.com/holvonix-open/release-config-js/issues/16)) ([](https://github.com/holvonix-open/release-config-js/commit/3412943))
+* **deps:** bump semantic-release from 15.13.24 to 15.13.30 ([#12](https://github.com/holvonix-open/release-config-js/issues/12)) ([](https://github.com/holvonix-open/release-config-js/commit/3205a0d))
+
 ## [1.0.11](https://github.com/holvonix-open/release-config-js/compare/v1.0.10...v1.0.11) (2019-11-12)
 
 

@@ -1,3 +1,15 @@
+## [1.0.11](https://github.com/holvonix-open/release-config-js/compare/v1.0.10...v1.0.11) (2019-11-12)
+
+
+### 🐛 Bug Fixes
+
+* **deps:** bump @semantic-release/changelog from 3.0.4 to 3.0.5 ([#10](https://github.com/holvonix-open/release-config-js/issues/10)) ([ff48421](https://github.com/holvonix-open/release-config-js/commit/ff48421))
+
+
+### 🧦 Miscellaneous
+
+* **deps-dev:** bump prettier from 1.18.2 to 1.19.1 ([#15](https://github.com/holvonix-open/release-config-js/issues/15)) ([992fbc0](https://github.com/holvonix-open/release-config-js/commit/992fbc0))
+
 ## [1.0.10](https://github.com/holvonix-open/release-config-js/compare/v1.0.9...v1.0.10) (2019-09-30)
 
 

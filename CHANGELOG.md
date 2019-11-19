@@ -1,3 +1,16 @@
+## [1.0.13](https://github.com/holvonix-open/release-config-js/compare/v1.0.12...v1.0.13) (2019-11-19)
+
+
+### 🐛 Bug Fixes
+
+* **deps:** [security] bump https-proxy-agent from 2.2.2 to 2.2.4 ([#18](https://github.com/holvonix-open/release-config-js/issues/18)) ([](https://github.com/holvonix-open/release-config-js/commit/145cd5c))
+* **deps:** bump semantic-release from 15.13.30 to 15.13.31 ([#17](https://github.com/holvonix-open/release-config-js/issues/17)) ([](https://github.com/holvonix-open/release-config-js/commit/786e74b))
+
+
+### 🧦 Miscellaneous
+
+* deps are chores since this is a library ([](https://github.com/holvonix-open/release-config-js/commit/7c7e3c0))
+
 ## [1.0.12](https://github.com/holvonix-open/release-config-js/compare/v1.0.11...v1.0.12) (2019-11-12)
 
 

@@ -47,9 +47,9 @@
   },
   "dependencies": {
     "@semantic-release/changelog": "^3.0.4",
-    "@semantic-release/git": "^7.0.16",
+    "@semantic-release/git": "^8.0.0",
     "conventional-changelog-angular": "^5.0.3",
-    "semantic-release": "^15.13.19"
+    "semantic-release": "^16.0.1"
   },
   "devDependencies": {
     "prettier": "^1.18.2"

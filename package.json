@@ -34,7 +34,9 @@
     "fix": "yarn run pretty.fix",
     "semantic-release": "semantic-release",
     "up": "yarn upgrade-interactive --latest",
-    "yarn": "rm -rf yarn.lock node_modules/ && yarn"
+    "yarn": "rm -rf yarn.lock node_modules/ && yarn",
+    "snyk-protect": "snyk protect",
+    "prepare": "yarn run snyk-protect"
   },
   "prettierGlob": {
     "include": "**/*.yml **/*.yaml **/*.md **/*.json *.js !CHANGELOG.md"
@@ -49,9 +51,11 @@
     "@semantic-release/changelog": "^3.0.4",
     "@semantic-release/git": "^7.0.16",
     "conventional-changelog-angular": "^5.0.3",
-    "semantic-release": "^15.13.19"
+    "semantic-release": "^15.13.19",
+    "snyk": "^1.316.1"
   },
   "devDependencies": {
     "prettier": "^1.18.2"
-  }
+  },
+  "snyk": true
 }
